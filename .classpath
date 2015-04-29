@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="D:/电子书籍/学习资料/上学/【毕业设计】/论文/forOthers/离散化/KEEL   2014-01-29/src/GraphInterKeel.jar"/>
+	<classpathentry kind="lib" path="D:/电子书籍/学习资料/上学/【毕业设计】/论文/forOthers/离散化/KEEL   2014-01-29/lib/Javastat/javastat1.3.jar"/>
+	<classpathentry kind="lib" path="D:/电子书籍/学习资料/上学/【毕业设计】/论文/forOthers/离散化/KEEL   2014-01-29/lib/Interfaz/net.sf.jclec.jar"/>
+	<classpathentry kind="lib" path="D:/电子书籍/学习资料/上学/【毕业设计】/论文/forOthers/离散化/KEEL   2014-01-29/lib/Interfaz/appframework-1.0.3.jar"/>
+	<classpathentry kind="lib" path="D:/电子书籍/学习资料/上学/【毕业设计】/论文/forOthers/离散化/KEEL   2014-01-29/lib/Interfaz/com.lowagie.text.jar"/>
+	<classpathentry kind="lib" path="D:/电子书籍/学习资料/上学/【毕业设计】/论文/forOthers/离散化/KEEL   2014-01-29/lib/Interfaz/com.Ostermiller.util.jar"/>
+	<classpathentry kind="lib" path="D:/电子书籍/学习资料/上学/【毕业设计】/论文/forOthers/离散化/KEEL   2014-01-29/lib/Interfaz/commons-logging-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/电子书籍/学习资料/上学/【毕业设计】/论文/forOthers/离散化/KEEL   2014-01-29/lib/Interfaz/iText.jar"/>
+	<classpathentry kind="lib" path="D:/电子书籍/学习资料/上学/【毕业设计】/论文/forOthers/离散化/KEEL   2014-01-29/lib/Interfaz/javolution.xml.jar"/>
+	<classpathentry kind="lib" path="D:/电子书籍/学习资料/上学/【毕业设计】/论文/forOthers/离散化/KEEL   2014-01-29/lib/Interfaz/jcommon-1.0.12.jar"/>
+	<classpathentry kind="lib" path="D:/电子书籍/学习资料/上学/【毕业设计】/论文/forOthers/离散化/KEEL   2014-01-29/lib/Interfaz/jdom.jar"/>
+	<classpathentry kind="lib" path="D:/电子书籍/学习资料/上学/【毕业设计】/论文/forOthers/离散化/KEEL   2014-01-29/lib/Interfaz/jfreechart-1.0.9.jar"/>
+	<classpathentry kind="lib" path="D:/电子书籍/学习资料/上学/【毕业设计】/论文/forOthers/离散化/KEEL   2014-01-29/lib/Interfaz/junit-4.5.jar"/>
+	<classpathentry kind="lib" path="D:/电子书籍/学习资料/上学/【毕业设计】/论文/forOthers/离散化/KEEL   2014-01-29/lib/Interfaz/jxl.jar"/>
+	<classpathentry kind="lib" path="D:/电子书籍/学习资料/上学/【毕业设计】/论文/forOthers/离散化/KEEL   2014-01-29/lib/Interfaz/libs-nnep.jar"/>
+	<classpathentry kind="lib" path="D:/电子书籍/学习资料/上学/【毕业设计】/论文/forOthers/离散化/KEEL   2014-01-29/lib/Interfaz/org.apache.commons.configuration.jar"/>
+	<classpathentry kind="lib" path="D:/电子书籍/学习资料/上学/【毕业设计】/论文/forOthers/离散化/KEEL   2014-01-29/lib/Interfaz/org.exolab.castor.jar"/>
+	<classpathentry kind="lib" path="D:/电子书籍/学习资料/上学/【毕业设计】/论文/forOthers/离散化/KEEL   2014-01-29/lib/Interfaz/org.jdom.jar"/>
+	<classpathentry kind="lib" path="D:/电子书籍/学习资料/上学/【毕业设计】/论文/forOthers/离散化/KEEL   2014-01-29/lib/Interfaz/org.jfree.jar"/>
+	<classpathentry kind="lib" path="D:/电子书籍/学习资料/上学/【毕业设计】/论文/forOthers/离散化/KEEL   2014-01-29/lib/Interfaz/org.w3c.tidy.jar"/>
+	<classpathentry kind="lib" path="D:/电子书籍/学习资料/上学/【毕业设计】/论文/forOthers/离散化/KEEL   2014-01-29/lib/Interfaz/org-netbeans-modules-java-j2seproject-copylibstask.jar"/>
+	<classpathentry kind="lib" path="D:/电子书籍/学习资料/上学/【毕业设计】/论文/forOthers/离散化/KEEL   2014-01-29/lib/Interfaz/swing-layout-1.0.3.jar"/>
+	<classpathentry kind="lib" path="D:/电子书籍/学习资料/上学/【毕业设计】/论文/forOthers/离散化/KEEL   2014-01-29/lib/Interfaz/swing-worker-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/电子书籍/学习资料/上学/【毕业设计】/论文/forOthers/离散化/KEEL   2014-01-29/lib/Interfaz/Tidy.jar"/>
+	<classpathentry kind="lib" path="D:/电子书籍/学习资料/上学/【毕业设计】/论文/forOthers/离散化/KEEL   2014-01-29/lib/Interfaz/xerces.jar"/>
+	<classpathentry kind="lib" path="D:/电子书籍/学习资料/上学/【毕业设计】/论文/forOthers/离散化/KEEL   2014-01-29/lib/olexgalib/jaga.jar"/>
+	<classpathentry kind="lib" path="D:/电子书籍/学习资料/上学/【毕业设计】/论文/forOthers/离散化/KEEL   2014-01-29/lib/olexgalib/olexcore.jar"/>
+	<classpathentry kind="lib" path="D:/电子书籍/学习资料/上学/【毕业设计】/论文/forOthers/离散化/KEEL   2014-01-29/lib/XML/jdom.jar"/>
+	<classpathentry kind="lib" path="D:/电子书籍/学习资料/上学/【毕业设计】/论文/forOthers/离散化/KEEL   2014-01-29/lib/jclec/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/电子书籍/学习资料/上学/【毕业设计】/论文/forOthers/离散化/KEEL   2014-01-29/lib/jclec/commons-configuration-1.5.jar"/>
+	<classpathentry kind="lib" path="D:/电子书籍/学习资料/上学/【毕业设计】/论文/forOthers/离散化/KEEL   2014-01-29/lib/jclec/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="D:/电子书籍/学习资料/上学/【毕业设计】/论文/forOthers/离散化/KEEL   2014-01-29/lib/jclec/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/电子书籍/学习资料/上学/【毕业设计】/论文/forOthers/离散化/KEEL   2014-01-29/lib/jclec/lib_classification.jar"/>
+	<classpathentry kind="lib" path="D:/电子书籍/学习资料/上学/【毕业设计】/论文/forOthers/离散化/KEEL   2014-01-29/lib/jclec/lib_jclec.jar"/>
+	<classpathentry kind="lib" path="D:/电子书籍/学习资料/上学/【毕业设计】/论文/forOthers/离散化/KEEL   2014-01-29/lib/mathtools/flanagan.jar"/>
+	<classpathentry kind="lib" path="D:/电子书籍/学习资料/上学/【毕业设计】/论文/forOthers/离散化/KEEL   2014-01-29/lib/mathtools/JBPCAfill.jar"/>
+	<classpathentry kind="lib" path="D:/电子书籍/学习资料/上学/【毕业设计】/论文/forOthers/离散化/KEEL   2014-01-29/lib/mathtools/lapack.jar"/>
+	<classpathentry kind="lib" path="D:/电子书籍/学习资料/上学/【毕业设计】/论文/forOthers/离散化/KEEL   2014-01-29/lib/mathtools/lapack_simple.jar"/>
+	<classpathentry kind="lib" path="D:/电子书籍/学习资料/上学/【毕业设计】/论文/forOthers/离散化/KEEL   2014-01-29/lib/mathtools/mtj.jar"/>
+	<classpathentry kind="lib" path="D:/电子书籍/学习资料/上学/【毕业设计】/论文/forOthers/离散化/KEEL   2014-01-29/lib/MIL/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/电子书籍/学习资料/上学/【毕业设计】/论文/forOthers/离散化/KEEL   2014-01-29/lib/MIL/commons-configuration-1.5.jar"/>
+	<classpathentry kind="lib" path="D:/电子书籍/学习资料/上学/【毕业设计】/论文/forOthers/离散化/KEEL   2014-01-29/lib/MIL/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="D:/电子书籍/学习资料/上学/【毕业设计】/论文/forOthers/离散化/KEEL   2014-01-29/lib/MIL/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/电子书籍/学习资料/上学/【毕业设计】/论文/forOthers/离散化/KEEL   2014-01-29/lib/MIL/javolution.jar"/>
+	<classpathentry kind="lib" path="D:/电子书籍/学习资料/上学/【毕业设计】/论文/forOthers/离散化/KEEL   2014-01-29/lib/MIL/lib_jclecmil.jar"/>
+	<classpathentry kind="lib" path="D:/电子书籍/学习资料/上学/【毕业设计】/论文/forOthers/离散化/KEEL   2014-01-29/lib/nnep/libs-nnep.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
