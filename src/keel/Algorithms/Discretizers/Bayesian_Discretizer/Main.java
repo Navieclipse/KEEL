@@ -6,10 +6,10 @@
 	Copyright (C) 2004-2010
 	
 	F. Herrera (herrera@decsai.ugr.es)
-    L. Sánchez (luciano@uniovi.es)
-    J. Alcalá-Fdez (jalcala@decsai.ugr.es)
-    S. García (sglopez@ujaen.es)
-    A. Fernández (alberto.fernandez@ujaen.es)
+    L. Sï¿½nchez (luciano@uniovi.es)
+    J. Alcalï¿½-Fdez (jalcala@decsai.ugr.es)
+    S. Garcï¿½a (sglopez@ujaen.es)
+    A. Fernï¿½ndez (alberto.fernandez@ujaen.es)
     J. Luengo (julianlm@decsai.ugr.es)
 
 	This program is free software: you can redistribute it and/or modify
@@ -58,12 +58,12 @@ public class Main {
 	 * @param args the command line arguments
 	 */
 	public static void main(String[] args) {
-		ParserParameters.doParse(args[0]);
-		LogManager.initLogManager();
+		ParserParameters.doParse(args[0]);	
+		LogManager.initLogManager();		
 
 		InstanceSet is=new InstanceSet();
 		try {	
-			is.readSet(Parameters.trainInputFile,true);
+			is.readSet(Parameters.trainInputFile,true); 
                 } catch(Exception e) {
                         LogManager.printErr(e.toString());
                         System.exit(1);
@@ -73,7 +73,7 @@ public class Main {
 		Discretizer dis;
 		String name=Parameters.algorithmName;
 		dis=new BayesianDiscretizer();
-		dis.buildCutPoints(is);
+		dis.buildCutPoints(is);  // å»ºç«‹æ–­ç‚¹
 		dis.applyDiscretization(Parameters.trainInputFile,Parameters.trainOutputFile);
 		dis.applyDiscretization(Parameters.testInputFile,Parameters.testOutputFile);
 		LogManager.closeLog();
